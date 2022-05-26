@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(flutter_animation_masterclass LANGUAGES CXX)
+project(intro_flutter_playground LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_animation_masterclass")
+set(BINARY_NAME "intro_flutter_playground")
 
 cmake_policy(SET CMP0063 NEW)
 
